@@ -1,4 +1,4 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Prosto+One&pause=1000&color=468EF7&background=3BD3FF00&width=435&lines=Hi+there%2CI+am+Ippoid+(Ilia).)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ippolid&show_icons=true&theme=transparent)
 
 <!--
